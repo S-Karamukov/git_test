@@ -1,0 +1,10 @@
+C:\Users\HP-Probook 4540s\source\repos\Svetlio\doodle1\Kursova_Rabota\bin\Debug\netcoreapp2.1\Kursova_Rabota.deps.json
+C:\Users\HP-Probook 4540s\source\repos\Svetlio\doodle1\Kursova_Rabota\bin\Debug\netcoreapp2.1\Kursova_Rabota.runtimeconfig.json
+C:\Users\HP-Probook 4540s\source\repos\Svetlio\doodle1\Kursova_Rabota\bin\Debug\netcoreapp2.1\Kursova_Rabota.runtimeconfig.dev.json
+C:\Users\HP-Probook 4540s\source\repos\Svetlio\doodle1\Kursova_Rabota\bin\Debug\netcoreapp2.1\Kursova_Rabota.dll
+C:\Users\HP-Probook 4540s\source\repos\Svetlio\doodle1\Kursova_Rabota\bin\Debug\netcoreapp2.1\Kursova_Rabota.pdb
+C:\Users\HP-Probook 4540s\source\repos\Svetlio\doodle1\Kursova_Rabota\obj\Debug\netcoreapp2.1\Kursova_Rabota.csproj.CoreCompileInputs.cache
+C:\Users\HP-Probook 4540s\source\repos\Svetlio\doodle1\Kursova_Rabota\obj\Debug\netcoreapp2.1\Kursova_Rabota.AssemblyInfoInputs.cache
+C:\Users\HP-Probook 4540s\source\repos\Svetlio\doodle1\Kursova_Rabota\obj\Debug\netcoreapp2.1\Kursova_Rabota.AssemblyInfo.cs
+C:\Users\HP-Probook 4540s\source\repos\Svetlio\doodle1\Kursova_Rabota\obj\Debug\netcoreapp2.1\Kursova_Rabota.dll
+C:\Users\HP-Probook 4540s\source\repos\Svetlio\doodle1\Kursova_Rabota\obj\Debug\netcoreapp2.1\Kursova_Rabota.pdb

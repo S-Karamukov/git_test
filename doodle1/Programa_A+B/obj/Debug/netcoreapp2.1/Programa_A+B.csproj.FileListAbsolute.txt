@@ -1,0 +1,10 @@
+C:\Users\HP-Probook 4540s\source\repos\Svetlio\doodle1\Programa_A+B\bin\Debug\netcoreapp2.1\Programa_A+B.deps.json
+C:\Users\HP-Probook 4540s\source\repos\Svetlio\doodle1\Programa_A+B\bin\Debug\netcoreapp2.1\Programa_A+B.runtimeconfig.json
+C:\Users\HP-Probook 4540s\source\repos\Svetlio\doodle1\Programa_A+B\bin\Debug\netcoreapp2.1\Programa_A+B.runtimeconfig.dev.json
+C:\Users\HP-Probook 4540s\source\repos\Svetlio\doodle1\Programa_A+B\bin\Debug\netcoreapp2.1\Programa_A+B.dll
+C:\Users\HP-Probook 4540s\source\repos\Svetlio\doodle1\Programa_A+B\bin\Debug\netcoreapp2.1\Programa_A+B.pdb
+C:\Users\HP-Probook 4540s\source\repos\Svetlio\doodle1\Programa_A+B\obj\Debug\netcoreapp2.1\Programa_A+B.csproj.CoreCompileInputs.cache
+C:\Users\HP-Probook 4540s\source\repos\Svetlio\doodle1\Programa_A+B\obj\Debug\netcoreapp2.1\Programa_A+B.AssemblyInfoInputs.cache
+C:\Users\HP-Probook 4540s\source\repos\Svetlio\doodle1\Programa_A+B\obj\Debug\netcoreapp2.1\Programa_A+B.AssemblyInfo.cs
+C:\Users\HP-Probook 4540s\source\repos\Svetlio\doodle1\Programa_A+B\obj\Debug\netcoreapp2.1\Programa_A+B.dll
+C:\Users\HP-Probook 4540s\source\repos\Svetlio\doodle1\Programa_A+B\obj\Debug\netcoreapp2.1\Programa_A+B.pdb
